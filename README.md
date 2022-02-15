@@ -2,9 +2,9 @@
 using html,css,javascript
 <a href="https://kameshwarsah.github.io/Food-website/" > <h1> open website </h1>
 
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEhIqoIEH3fJ03Ehwonh84PFdmzI4RV-yJ_Rr_D2Wi84xF1vKPR3L3pERQUs9jFt5_p0sa3ctD7_n_z1-Wv2AfTj-ymyyAhI2NX2w9FDqNngQfnAgBYrSb1xO4Y7VDE58hneG7ZaedprVWVHzJIukKIS0K0pWZ6uru25Jv5yAhx4IbLkPn4DQvmNZ_2eNg=16000" >
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEhIqoIEH3fJ03Ehwonh84PFdmzI4RV-yJ_Rr_D2Wi84xF1vKPR3L3pERQUs9jFt5_p0sa3ctD7_n_z1-Wv2AfTj-ymyyAhI2NX2w9FDqNngQfnAgBYrSb1xO4Y7VDE58hneG7ZaedprVWVHzJIukKIS0K0pWZ6uru25Jv5yAhx4IbLkPn4DQvmNZ_2eNg=s16000" >
   
-<img src="https://blogger.googleusercontent.com/img/a/AVvXsEgybP3ViLCRhAUh99esuX4F21b4kQLfy04Bf2GfW1c9A4O6Eq_ItPJb4tJ3IiTun1C3bgnP8FcQKenwDX72jNETejW8dgZgMlXPNS7vFRz4LzWOK4sutpFebComQa17r-WnBS8mSlx7IYGeQa1XJ8Vj_M05RjqjxSeCekEsr94Ccx7gsBLggVwpMDbUvA=s320" >
+<img src="https://blogger.googleusercontent.com/img/a/AVvXsEgybP3ViLCRhAUh99esuX4F21b4kQLfy04Bf2GfW1c9A4O6Eq_ItPJb4tJ3IiTun1C3bgnP8FcQKenwDX72jNETejW8dgZgMlXPNS7vFRz4LzWOK4sutpFebComQa17r-WnBS8mSlx7IYGeQa1XJ8Vj_M05RjqjxSeCekEsr94Ccx7gsBLggVwpMDbUvA=s16000" >
   
 <img src="https://blogger.googleusercontent.com/img/a/AVvXsEj7WEZUNqvauloKjkS5v0AFlKc1US632Il5lbfpCnnbB268pfaYH2wTPahA3-RZixq9BmKfs1YbQhIWkGrPtQJIsbWJTJOHrvf0jVvo7FJYws9k-rDVWlCR2dEiiTaHqV2aKPKuzY1cVd7LZ1fUIN0nxMRxSZ_WkkZXg-POSAbC6Og3ornRlVsmmXBczA=s320" >
   
